@@ -1,1 +1,0 @@
-# Swagger-Pet-store-api-test
