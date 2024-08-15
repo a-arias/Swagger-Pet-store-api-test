@@ -1,13 +1,16 @@
-# REST-assured API Testing Project
+# Swagger Pet store APIs project
 
 ## Overview
 
-This project uses REST-assured to test APIs. REST-assured is a Java library that simplifies the process of testing REST services. It provides a domain-specific language (DSL) for writing tests that are readable and maintainable.
+This project uses REST-assured to test  Swagger Pet store APIs project. REST-assured is a Java library that simplifies the process of testing REST services. It provides a domain-specific language (DSL) for writing tests that are readable and maintainable.
 
 ## Prerequisites
 
 - **Java 8 or higher**: Ensure that you have Java installed on your system.
 - **Maven**: The project uses Maven for dependency management. Install Maven if you haven't already.
+- Follow this link for getting information about the Swagger Pet store project.
+- Setup the API Pet store and run it locally.
+- You should be able to see the Swagger service running with all the api endpoints examples on http://localhost:8080
 
 ## Getting Started
 
